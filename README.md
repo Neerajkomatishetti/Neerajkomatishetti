@@ -1,15 +1,53 @@
 # Neeraj Komatishetti
 
-![Profile Picture](your-picture-url)
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-- **Phone**: +91 8247892095
+<img src = "profile_pictures/profile_picture.jpg" alt = "Profile Picture" style ="width:150px; height:150px; border-radius:50%;" >
+
 - **Email**: [neerajkomatishetti@gmail.com](mailto:neerajkomatishetti@gmail.com)
 - **LinkedIn**: [Neeraj Komatishetti](https://www.linkedin.com/in/neeraj-komatishetti-639ab32a8)
-- **Location**: Meerpet, Hyderabad, Telangana
-
 ## About Me
 
 I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking to learn new things and come up with fresh ideas. I'm searching for an internship to gain real-world experience and understand how companies work. I'm eager to pick up new skills and grow in my field. I'm confident I can be a valuable asset to any team and will work hard to deliver great results.
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<style>
+    .icon {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        transition: transform 0.2s; /* Animation */
+    }
+    .icon:hover {
+        transform: scale(1.5); /* Scale the icon to 1.5 times its original size */
+    }
+    .tools {
+      display:flex-wrap;
+      }
+</style>
+
+# Technologies I Use
+
+### Tools
+<div class = "tools">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="icon" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" class="icon" alt="PyCharm">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" class="icon" alt="Jupyter">
+</div>
+
+### Libraries & Frameworks
+<div class = "tools">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" class="icon" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" class="icon" alt="NumPy">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" class="icon" alt="SciPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" class="icon" alt="Matplotlib">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="icon" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="icon" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="icon" alt="CSS3">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" class="icon" alt="Java">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="icon" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" class="icon" alt="Django">
+</div>
 
 ## Education
 
@@ -26,11 +64,11 @@ I'm a computer science student who is really into technology and innovation. I'v
 
 ## Skills
 
-1. Intermediate knowledge in Python
-2. Basic Machine Learning
+1. Python programming
+2. Machine Learning
 3. Frontend Web Development
-4. Basic Knowledge in Data Structures and Algorithms (DSA)
-5. Basic Knowledge in C++, C, Java
+4. Data Structures and Algorithms (DSA)
+5. C++, C, Java
 
 ## Projects
 
