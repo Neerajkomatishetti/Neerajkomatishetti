@@ -10,22 +10,6 @@
 
 I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking to learn new things and come up with fresh ideas. I'm searching for an internship to gain real-world experience and understand how companies work. I'm eager to pick up new skills and grow in my field. I'm confident I can be a valuable asset to any team and will work hard to deliver great results.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<style>
-    .icon {
-        display: inline-block;
-        width: 50px;
-        height: 50px;
-        transition: transform 0.2s; /* Animation */
-    }
-    .icon:hover {
-        transform: scale(1.5); /* Scale the icon to 1.5 times its original size */
-    }
-    .tools {
-      display:flex-wrap;
-      }
-</style>
-
 # Technologies I Use
 
 ### Tools
