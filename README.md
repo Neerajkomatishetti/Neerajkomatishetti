@@ -36,7 +36,7 @@ I'm a computer science student who is really into technology and innovation. I'v
 ## Education
 
 - **UG**: *2025*
-  - Pursuing Full Time B.Tech in Computer Science Engineering from TKR College of Engineering & Technology at Meerpet, Rangareddy(D), Hyderabad.
+  - B.Tech in Computer Science Engineering from TKR College of Engineering & Technology at Meerpet, Rangareddy(D), Hyderabad.
 - **Diploma**: *2019 - 2022*
   - Completed Diploma in Computer Science from TKR College of Engineering & Technology at Meerpet, Rangareddy(D), Hyderabad, with 8.4 CGPA.
 - **SSC**: *2019*
