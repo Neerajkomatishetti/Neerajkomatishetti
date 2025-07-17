@@ -28,6 +28,8 @@ I'm a computer science student who is really into technology and innovation. I'v
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="icon" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="icon" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="icon" alt="CSS3">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" class="icon" alt="Java">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="icon" alt="Python">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" class="icon" alt="Django">
@@ -35,7 +37,7 @@ I'm a computer science student who is really into technology and innovation. I'v
 
 ## Education
 
-- **UG**: *2025*
+- **B.Tech**: *2022 - 2025*
   - B.Tech in Computer Science Engineering from TKR College of Engineering & Technology at Meerpet, Rangareddy(D), Hyderabad.
 - **Diploma**: *2019 - 2022*
   - Completed Diploma in Computer Science from TKR College of Engineering & Technology at Meerpet, Rangareddy(D), Hyderabad, with 8.4 CGPA.
