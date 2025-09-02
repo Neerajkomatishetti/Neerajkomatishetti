@@ -53,11 +53,26 @@ I'm a computer science student who is really into technology and innovation. I'v
 
 1. Python programming
 2. Machine Learning
-3. Frontend Web Development
+3. Full Stack Web Development
 4. Data Structures and Algorithms (DSA)
-5. C++, C, Java
+5. C++, C, Java, SQL, PostgreSql, Mongodb, prisma.
+6. JavaScript, TypeScript
+7. MERN Stack
 
 ## Projects
+
+### Paytm Clone
+- Developed a full-stack fintech app using Node.js, MongoDB, and Vite with JWT-based authentication.
+- Enabled secure money transfers, real-time balance updates, and transaction history tracking.
+- Architected modular REST APIs and integrated frontend/backend with environment-based routing.
+- Containerized the app using Docker for seamless cross-platform deployment.
+- Designed for fast local setup and scalable prototyping of financial services.
+
+### Full Stack Todo
+- Built a full-stack Todo application using Node.js, Express, and React with custom styling and responsive UI.
+- Implemented CRUD operations, user-friendly task management, and dynamic state updates.
+- Deployed on Vercel with optimized frontend/backend integration for fast performance.
+- Designed for scalability and clean code structure—ideal for showcasing full-stack proficiency
 
 ### Calculator Application
 Developed a robust and user-friendly calculator application that can perform a wide range of arithmetic operations. The project involved:
@@ -65,13 +80,6 @@ Developed a robust and user-friendly calculator application that can perform a w
 - Implementing core functionality using JavaScript.
 - Ensuring the application is responsive and works well across different devices.
 
-### Online Food Delivery System using Django
-Built a comprehensive online food delivery system leveraging the Django framework. Key features of the system include:
-- **User Authentication**: Secure login and registration system.
-- **Restaurant Management**: Allows restaurants to add, update, and manage their menu items.
-- **Order Processing**: Facilitates order placement, tracking, and management.
-- **Responsive Design**: Optimized for both desktop and mobile users.
-This project showcased my ability to build full-stack web applications and handle both frontend and backend development effectively.
 
 ### Machine Learning Model for MNIST Dataset
 Developed a machine learning model to predict digits from the MNIST dataset, a large database of handwritten digits. This project involved:
