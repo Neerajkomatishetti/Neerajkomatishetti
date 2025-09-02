@@ -6,7 +6,7 @@
 
 - **Email**: [neerajkomatishetti@gmail.com](mailto:neerajkomatishetti@gmail.com)
 - **LinkedIn**: [Neeraj Komatishetti](https://www.linkedin.com/in/neeraj-komatishetti-639ab32a8)
-- - **Portfolio**: [Neeraj Komatishetti](https://pf-seven-psi.vercel.app/)
+- **Portfolio**: [Neeraj Komatishetti](https://pf-seven-psi.vercel.app/)
 ## About Me
 
 I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking to learn new things and come up with fresh ideas. I'm searching for an internship to gain real-world experience and understand how companies work. I'm eager to pick up new skills and grow in my field. I'm confident I can be a valuable asset to any team and will work hard to deliver great results.
