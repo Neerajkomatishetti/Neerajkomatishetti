@@ -4,7 +4,7 @@
 
 <img src = "profile_pictures/profile_picture.jpg" alt = "Profile Picture" style ="width:150px; height:150px; border-radius:50%;" >
 
-- **Email**: [neerajkomatishetti@gmail.com](mailto:neerajkomatishetti@gmail.com)
+- **Email**: [Email](mailto:neerajkomatishetti@gmail.com)
 - **LinkedIn**: [Neeraj Komatishetti](https://www.linkedin.com/in/neeraj-komatishetti-639ab32a8)
 - **Portfolio**: [Neeraj Komatishetti](https://pf-seven-psi.vercel.app/)
 ## About Me
