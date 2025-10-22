@@ -9,7 +9,7 @@
 - **Portfolio**: [Neeraj Komatishetti](https://portfolio-phi-red-81.vercel.app/)
 ## About Me
 
-I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking to learn new things and come up with fresh ideas. I'm searching for an internship to gain real-world experience and understand how companies work. I'm eager to pick up new skills and grow in my field. I'm confident I can be a valuable asset to any team and will work hard to deliver great results.
+I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking[...]  
 
 # Technologies I Use
 
@@ -51,13 +51,14 @@ I'm a computer science student who is really into technology and innovation. I'v
 
 ## Skills
 
-1. Python programming
-2. Machine Learning
-3. Full Stack Web Development
-4. Data Structures and Algorithms (DSA)
-5. C++, C, Java, SQL, PostgreSql, Mongodb, prisma.
-6. JavaScript, TypeScript
-7. MERN Stack
+- Languages: Python, Java, C, C++, JavaScript, TypeScript, SQL
+- Databases: PostgreSQL, MongoDB, Prisma, Supabase
+- Backend: Node.js, Express.js, Django, HONO, Cloudflare Workers
+- Frontend: HTML5, CSS3, React, Next.js, Vite
+- Full-stack: MERN (MongoDB, Express, React, Node) stack; Next.js + TypeScript
+- Data & ML: Pandas, NumPy, SciPy, Matplotlib, TensorFlow, Machine Learning
+- Dev tooling & practices: Git, Docker, VS Code, PyCharm, Jupyter, Containerization, REST APIs, JWT Authentication, Deployment
+- Concepts: Data Structures & Algorithms (DSA), Project architecture, Scalable code organization
 
 ## Projects
 
