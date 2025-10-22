@@ -61,6 +61,13 @@ I'm a computer science student who is really into technology and innovation. I'v
 
 ## Projects
 
+### A DonationOS
+- DonateOS(overseas) is a platform built for Registering Donations to foreign countries.
+- Developed using TypeScript and NEXTJS for frontend
+- HONO, Cloudflare workers for backend
+- Uses Postgres as the Primary DB
+- And uses Supabase Storage for storing images
+
 ### Paytm Clone
 - Developed a full-stack fintech app using Node.js, MongoDB, and Vite with JWT-based authentication.
 - Enabled secure money transfers, real-time balance updates, and transaction history tracking.
@@ -73,12 +80,6 @@ I'm a computer science student who is really into technology and innovation. I'v
 - Implemented CRUD operations, user-friendly task management, and dynamic state updates.
 - Deployed on Vercel with optimized frontend/backend integration for fast performance.
 - Designed for scalability and clean code structure—ideal for showcasing full-stack proficiency
-
-### Calculator Application
-Developed a robust and user-friendly calculator application that can perform a wide range of arithmetic operations. The project involved:
-- Designing a clean and intuitive user interface.
-- Implementing core functionality using JavaScript.
-- Ensuring the application is responsive and works well across different devices.
 
 
 ### Machine Learning Model for MNIST Dataset
