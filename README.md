@@ -9,7 +9,7 @@
 - **Portfolio**: [Neeraj Komatishetti](https://portfolio-phi-red-81.vercel.app/)
 ## About Me
 
-I'm a computer science student who is really into technology and innovation. I've learned a good amount about coding in Java and Python, and I love figuring out tricky problems. I'm always looking[...]  
+I'm a computer science student who is really into technology and innovation. I've good expertise in Full Stack development, a tech nerd, and I love figuring out tricky problems. I'm always looking to collaborate! 
 
 # Technologies I Use
 
